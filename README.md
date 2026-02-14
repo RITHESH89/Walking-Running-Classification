@@ -1,13 +1,13 @@
 README.md
-# 🚗 Automobile Imports Price Prediction
+# Automobile Imports Price Prediction
 
-## 📌 Project Overview
+##  Project Overview
 The Automobile Imports Price Prediction project aims to predict the price of imported automobiles using machine learning techniques.
 The dataset contains various car characteristics such as engine size, fuel type, body style, mileage, insurance risk rating, and more.
 
 This is a regression-based machine learning project commonly used to demonstrate data preprocessing, feature engineering, and predictive modeling skills.
 
-## 🎯 Problem Statement
+##  Problem Statement
 To build a machine learning model that accurately predicts the price of a car based on its technical and categorical features.
 
 ## 📊 Dataset Description
