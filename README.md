@@ -10,7 +10,7 @@ This is a regression-based machine learning project commonly used to demonstrate
 ##  Problem Statement
 To build a machine learning model that accurately predicts the price of a car based on its technical and categorical features.
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset includes the following types of features:
 
 Categorical Features:
@@ -30,7 +30,7 @@ Numerical Features:
 Target Variable:
 - price
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -38,7 +38,7 @@ Target Variable:
 - Seaborn
 - Scikit-learn
 
-## 🔄 Project Workflow
+##  Project Workflow
 1. Data Collection
 2. Data Preprocessing
 3. Exploratory Data Analysis (EDA)
