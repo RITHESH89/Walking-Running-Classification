@@ -45,15 +45,15 @@ Target Variable:
 4. Model Building
 5. Model Evaluation
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 - Linear Regression
 - Random Forest Regressor
 
-## 📈 Results
+##  Results
 The model successfully predicts automobile prices with good accuracy.
 Random Forest achieved better performance compared to Linear Regression.
 
-## 📁 Project Structure
+##  Project Structure
 Automobile-Imports-Price-Prediction/
 ├── data/
 │   └── automobile.csv
@@ -62,7 +62,7 @@ Automobile-Imports-Price-Prediction/
 ├── README.md
 ├── requirements.txt
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Clone the repository
 2. Install dependencies
 3. Run the Jupyter Notebook
