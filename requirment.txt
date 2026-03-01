@@ -3,6 +3,4 @@ numpy
 scikit-learn
 joblib
 xgboost
-pandas
 matplotlib
-numpy
