@@ -8,7 +8,7 @@ This type of classification is widely used in:
 - Fitness tracking apps
 - Smartwatches & wearable devices
 - Health monitoring systems
-- Activity recognition systems
+- Activity recognition systems 
 
 
 ##  Objective
