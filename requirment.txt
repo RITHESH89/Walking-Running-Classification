@@ -1,4 +1,4 @@
-pyth
+python
 pandas
 numpy
 scikit-learn
