@@ -27,7 +27,7 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - Python 
 - NumPy
 - Pandas
-- Matplotlib /
+- Matplotlib 
 - Seaborn
 - Scikit-learn
 - TensorFlow 
