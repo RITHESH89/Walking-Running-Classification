@@ -14,7 +14,6 @@ This type of classification is widely used in:
 ##  Objective
 To build a machine learning model that accurately classifies **Walking** and **Running** activities based on given input features.
 
----
 
 ##  Dataset
 - The dataset contains labeled samples of **walking** and **running** activities.
