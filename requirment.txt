@@ -6,4 +6,3 @@ xgboost
 seaborn
 matplotlib
 scikit-learn
-matplotlib
