@@ -31,7 +31,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - Scikit-learn
 - TensorFlow 
 -  Keras (if deep learning is used)
-- Jupyter Notebook
 
 
 ##  Machine Learning Workflow
