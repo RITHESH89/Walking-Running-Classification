@@ -1,4 +1,4 @@
-# Walking vs Running Classification using Machine learning models
+#  Walking–Running Classification
 
 ##  Project Overview
 This project focuses on classifying **human activities** — **Walking** and **Running** — using **machine learning techniques**.  
