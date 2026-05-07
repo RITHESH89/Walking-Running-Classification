@@ -71,4 +71,4 @@ The model performance is evaluated using:
 ##  Results
 - The trained model successfully classifies **Walking** and **Running** activities.
 - Achieved **high accuracy** on test data.
-- Can be extended for real-time activity recognition.
+- Can be extended for real-time activity recognition..
