@@ -59,6 +59,7 @@ The model performance is evaluated using:
 - Recall
 - F1-score
 - Confusion Matrix
+  
 
 ## Sample Output
 | Actual Activity | Predicted Activity |
