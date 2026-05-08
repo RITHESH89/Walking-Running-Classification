@@ -1,4 +1,4 @@
-##  Walking–Running Classification module
+##  Walking–Running Classification 
 
 ##  Project Overview
 This project focuses on classifying **human activities** — **Walking** and **Running** — using **machine learning techniques**.  
