@@ -68,7 +68,6 @@ The model performance is evaluated using:
 | Running         | Running           |
 
 
-
 ##  Results
 - The trained model successfully classifies **Walking** and **Running** activities.
 - Achieved **high accuracy** on test data.
