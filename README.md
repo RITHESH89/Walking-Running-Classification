@@ -23,6 +23,11 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 
 ##  Technologies Used
+- Python 
+- NumPy
+- Pandas
+- Matplotlib 
+- Seaborn
 
 
 ##  Machine Learning Workflow
