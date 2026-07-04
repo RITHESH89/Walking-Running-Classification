@@ -14,8 +14,7 @@ This type of classification is widely used in:
 To build a machine learning model that accurately classifies **Walking** and **Running** activities based on given input features.
 1. Data Collection
 2. Data Preprocessing
-3. Feature Extraction
-4. Train-Test Split
+3.
 
 
 
