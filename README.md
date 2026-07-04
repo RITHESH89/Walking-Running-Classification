@@ -16,10 +16,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 2. Data Preprocessing
 3. Feature Extraction
 4. Train-Test Split
-5. Model Evaluation
-6. Model Trainin
-7. Model Evaluation
-8. Prediction
 
 
 
