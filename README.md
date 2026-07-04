@@ -12,6 +12,15 @@ This type of classification is widely used in:
 
 ##  Objective
 To build a machine learning model that accurately classifies **Walking** and **Running** activities based on given input features.
+ 1. Data Collection
+2. Data Preprocessing
+3. Feature Extraction
+4. Train-Test Split
+5. Model Evaluation
+6. Model Training
+7. Model Evaluation
+8. Prediction
+
 
 
 
