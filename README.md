@@ -34,10 +34,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 ##  Machine Learning Workflow
  1. Data Collection
-2. Data Preprocessing
-3. Feature Extraction
-4. Train-Test Split
-
 
 
 ##  Models Used
