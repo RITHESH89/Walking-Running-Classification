@@ -18,8 +18,7 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - The dataset contains labeled samples of **walking** and **running** activities.
 - Features may include:
   - Accelerometer values (X, Y, Z)
-  - Speed or motion-related parameters
-  - Image data (if using image-based classification)
+ lassification)
 
 
 ##  Technologies Used
