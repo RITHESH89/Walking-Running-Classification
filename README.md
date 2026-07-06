@@ -15,9 +15,7 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 
 ##  Dataset
-- The dataset contains labeled samples of **walking** and **running** activities.
-- Features may include:
-  
+
 
 
 ##  Technologies Used
