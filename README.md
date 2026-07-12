@@ -5,8 +5,6 @@ This project focuses on classifying **human activities** — **Walking** and **R
 The model learns patterns from sensor or image data and predicts whether a person is walking or running.
 
 This type of classification is widely used in:
-- Fitness tracking apps
-- Smartwatches & wearable devices
 
 ##  Objective
 To build a machine learning model that accurately classifies **Walking** and **Running** activities based on given input features.
