@@ -30,8 +30,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - NumPy
 - Pandas
 - Matplotlib 
-- Seaborn
-- Scikit-learn
 
 
 ##  Machine Learning Workflow
