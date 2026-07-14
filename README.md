@@ -26,7 +26,14 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 
 ##  Technologies Used
-
+- Python 
+- NumPy
+- Pandas
+- Matplotlib 
+- Seaborn
+- Scikit-learn
+- TensorFlow 
+-  Keras (if deep learning is used)
 
 ##  Machine Learning Workflow
  1. Data Collection
