@@ -15,14 +15,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 
 ##  Dataset
-- Python 
-- NumPy
-- Pandas
-- Matplotlib 
-- Seaborn
-- Scikit-learn
-- TensorFlow 
--  Keras (if deep learning is used)
 
 
 ##  Technologies Used
