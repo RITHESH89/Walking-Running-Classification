@@ -22,7 +22,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - Seaborn
 - Scikit-learn
 - TensorFlow 
--  Keras (if deep learning is used)
 
 
 ##  Technologies Used
