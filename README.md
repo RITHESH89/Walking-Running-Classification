@@ -15,9 +15,6 @@ To build a machine learning model that accurately classifies **Walking** and **R
 
 
 ##  Dataset
-- Python 
-- NumPy
-- Pandas
 
 
 
