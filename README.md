@@ -20,8 +20,7 @@ To build a machine learning model that accurately classifies **Walking** and **R
 - Pandas
 - Matplotlib 
 - Seaborn
-- Scikit-learn
-- TensorFlow 
+
 
 
 ##  Technologies Used
